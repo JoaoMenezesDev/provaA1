@@ -1,0 +1,26 @@
+#opcoesPag td {
+    color:white;
+    background-color: green;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid red;
+    border-collapse: collapse;
+    background-color: green;
+    color: white;
+}
+th, td {
+    padding: 10px 7px;
+}
+.preco {
+    background-color: blue;
+}
